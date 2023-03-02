@@ -7,5 +7,5 @@ def ar():
     ar()
  if not os.path.exists('font.ttf'):
     print("تريمكس عربي بالفعل")  
-    os.system('python Z-F.py')
+    os.system('python farok-ss_enc.py')
 ar()
